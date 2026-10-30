@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Stackies
+Comment=Desktop sticky notes
+Exec=Stackies
+Icon=stackies
+Terminal=false
+Categories=Utility;Office;
+StartupWMClass=Stackies

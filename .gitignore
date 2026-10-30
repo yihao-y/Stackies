@@ -1,0 +1,53 @@
+# CMake and local build directories
+/build/
+/build-*/
+/cmake-build-*/
+/out/
+/dist/
+/package/
+/packages/
+/Stackies.AppDir/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+compile_commands.json
+CMakeUserPresets.json
+
+# Compiled binaries and release archives
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.qm
+*.AppImage
+*.zip
+*.tar
+*.tar.gz
+
+# Local note databases, journals, logs, and crash files
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-*
+*.sqlite3-*
+*.db-*
+*.log
+*.dmp
+*.core
+
+# Editors, Python helpers, and operating-system files
+.vscode/
+.idea/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

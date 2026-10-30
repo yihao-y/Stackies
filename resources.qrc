@@ -1,0 +1,21 @@
+<RCC><qresource prefix="/tabler">
+<file alias="bold.svg">assets/tabler/bold.svg</file>
+<file alias="italic.svg">assets/tabler/italic.svg</file>
+<file alias="underline.svg">assets/tabler/underline.svg</file>
+<file alias="strikethrough.svg">assets/tabler/strikethrough.svg</file>
+<file alias="text-color.svg">assets/tabler/text-color.svg</file>
+<file alias="list.svg">assets/tabler/list.svg</file>
+<file alias="list-numbers.svg">assets/tabler/list-numbers.svg</file>
+<file alias="list-check.svg">assets/tabler/list-check.svg</file>
+<file alias="plus.svg">assets/tabler/plus.svg</file>
+<file alias="layout-grid.svg">assets/tabler/layout-grid.svg</file>
+<file alias="pin.svg">assets/tabler/pin.svg</file>
+<file alias="pinned.svg">assets/tabler/pinned.svg</file>
+<file alias="pencil.svg">assets/tabler/pencil.svg</file>
+<file alias="minus.svg">assets/tabler/minus.svg</file>
+<file alias="x.svg">assets/tabler/x.svg</file>
+<file alias="check.svg">assets/tabler/check.svg</file>
+</qresource><qresource prefix="/app">
+<file alias="icon.svg">assets/app-icon.svg</file>
+<file alias="small.svg">assets/app-icon-small.svg</file>
+</qresource></RCC>
